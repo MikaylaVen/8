@@ -1,0 +1,19 @@
+GET  https://coronavirus.m.pipedream.net/
+Host: coronavirus.m.pipedream.net
+Content-Type: application/json
+
+## List of APIs: https://github.com/public-apis/public-apis
+##
+## GET information from another API of your choosing, it must respond its status as 200 OK.
+##
+##   Write 2 to 3 sentences on the kinds of information that was provided from the API,
+## with specific information from the response.
+##
+## Your reply below ------------------------------------------------------
+//This Api takes the confirmed cases and deaths of Covid-19 data and
+//puts it into an api. An example is "Country_Region": "Algeria",
+      //"Last_Update": "2023-03-10 04:21:03",
+     // "Lat": "28.0339",
+     // "Long_": "1.6596",
+      //"Confirmed": "271496",
+     // "Deaths": "6881",.
